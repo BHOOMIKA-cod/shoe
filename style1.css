@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0; 
+    box-sizing: border-box;
+
+}
+
+html,body{ 
+    height:100%;
+    width:100%;
+}
+ #yes{
+    height:100%;
+    width: 50%;
+    background-image: url(/1000_F_546844162_altBIycHrW2pczkovylCRQqohjbNTh6p.jpg);
+    background-size:cover;
+    background-position: center;
+    transition:all ease 2s ;
+    cursor:pointer;
+display :flex;
+}
+#oh{
+    height:100%;
+    width: 50%;
+    background-image: url(./artificial-intelligence-humanoid-robot-portraits-looking-camera-surround-with-ai-computer-circuit-business-icons-blue-background-information-automation-service-smart-technology-concept_36367-8371\ \(1\).avif);
+    background-size:cover;
+    background-position: center;
+    transition:all ease 2s ;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    }
+
